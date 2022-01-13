@@ -4,7 +4,7 @@
 **SumantaGitWeb/SumantaGitWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 ##### - 🔭 I’m currently thinking to working on - A Personal Blog site
 ##### - 🌱 I’m currently learning - Js and Java and animation and .....
